@@ -1,9 +1,10 @@
 <?php
 class Controller
 {
-	public function action_index($a)
-	{		
+	public function action_index()
+	{
 		
 	}
 }
+
 ?>
