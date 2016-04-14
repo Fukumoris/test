@@ -1,10 +1,20 @@
 <!DOCTYPE HTML>
-<html lang="ja">
-<head>
-	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="index.css">
-	<title></title>
-</head>
-<?php
-	
-?>
+ <html lang="ja">
+ <head>
+ 	<meta charset="utf-8">
+ 	<link rel="stylesheet" type="text/css" href="style.css">
+ 	<title></title>
+ </head>
+ <style>
+
+
+ </style>
+ <div id="header">
+ 	<div id="header_nav">
+
+ 	</div>
+ </div>
+ <?php 
+ require('body_index.php');
+ ?>
+
