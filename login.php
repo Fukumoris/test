@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE HTML>
  <html lang="ja">
  <head>
@@ -18,3 +19,6 @@
  require('body_index.php');
  ?>
 
+=======
+kagosima
+>>>>>>> login
