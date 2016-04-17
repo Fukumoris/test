@@ -11,7 +11,7 @@
  </style>
  <div id="header">
  	<div id="header_nav">
-
+ 	kagosima
  	</div>
  </div>
  <?php 
