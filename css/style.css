@@ -1,0 +1,23 @@
+/****基本レイアウト****/
+#warpper{
+	height: 200px;
+	border: 1px solid black;
+}
+#header{
+	float: right;
+}
+.login{
+	font-size: 10px;
+}
+.otoe{
+	font-size: 10px;
+}
+
+/****基本レイアウト****/
+.content{
+	border: solid 1px black;
+}
+p{
+	margin-top: auto;
+	border: solid 1px black;
+}

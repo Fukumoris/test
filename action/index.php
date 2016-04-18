@@ -2,18 +2,13 @@
  <html lang="ja">
  <head>
  	<meta charset="utf-8">
- 	<link rel="stylesheet" type="text/css" href="style.css">
+ 	<link rel="stylesheet" type="text/css" href="../css/style.css">
  	<title>練習</title>
  </head>
  <style>
 
 
  </style>
- <div id="header">
- 	<div id="header_nav">
-
- 	</div>
- </div>
  <?php 
  require('body_index.php');
  ?>
